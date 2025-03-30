@@ -1,2 +1,3 @@
 This is a.txt file.
 Adding another line of text.
+Another change to a.txt.
